@@ -1,0 +1,14 @@
+month	Water
+jan	81.2
+feb	29.1
+mar	30.0
+apr	34.3
+mai	11.1
+jun	49.2
+jul	22.3
+aug	88.9
+sep	39.2
+okt	33.3
+nov	11.3
+dez	39.2
+year	100000.3
