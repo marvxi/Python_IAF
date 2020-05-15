@@ -1,0 +1,7 @@
+cryptList=['die', 'ist', 'Auf', 'ist', 'und', 'wichtigen', 'einem', 'Quelltext', 'für', 'objektorientierten', 'abstrakten', 'und', 'zusätz-liche', 'Anwendungsentwicklung', 'und', 'sowie', 'Skripte', 'Program-mierung.', 'in', 'Programmiersprache', 'der', 'sowohl', 'mächtige', 'auf', 'für', 'binärer', 'umfangreiche', 'aber', 'Form', 'aber', 'Ach-tung!', 'einfach', 'eine', 'Syntax', 'als', 'tolle', 'gleichen', 'und', 'die', 'Seite','für', 'mit', 'http://www.python.org', 'freie', 'elegan-te', 'Der', 'geeignet.', 'sind', 'Development)', 'auch', 'effizienten', 'von', 'Application', 'Verweise', 'alle', 'Sprache', 'Standardbiblio-thek', 'Werkzeuge,', 'Distributionen', 'finden', 'schnelle', 'und', 'als', 'weiterverbreitet', 'hervorragend', 'Typisierung', '(Rapid', 'Drittanbietern,', 'Geheim!', 'auf', 'Ansatz', 'und', 'frei', 'Pro-gramme', 'verfügbar,', 'werden.', 'Python', 'Module,', 'Python', 'ein-fachen,', 'als', 'dynamische', 'frei', 'die', 'Dokumentation.', 'ler-nende,', 'Webseite', 'Python-Interpreter', 'zu', 'interpretierte', 'können','zur', 'der', 'sich', 'Plattformen', 'weitere', 'effektiven', 'Durch', 'Datenstrukturen']
+
+key=[30, 68, 78, 3, 32, 35, 19]
+encode = ""
+for i in key:   #Geht direkt in die Liste rein
+    encode = encode +''+cryptList[i]
+print(encode)

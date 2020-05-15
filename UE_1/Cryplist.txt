@@ -1,0 +1,12 @@
+['die', 'ist', 'Auf', 'ist', 'und', 'wichtigen', 'einem', 'Quelltext', 'für', 'objektori-
+entierten', 'abstrakten', 'und', 'zusätzliche', 'Anwendungsentwicklung', 'und', 'sowie',
+ 'Skripte', 'Programmierung.', 'in', 'Programmiersprache', 'der', 'sowohl', 'mächtige',
+ 'auf', 'für', 'binärer', 'umfangreiche', 'aber', 'Form', 'aber', 'Achtung!', 'einfach',
+ 'eine', 'Syntax', 'als', 'tolle', 'gleichen', 'und', 'die', 'Sei te', 'für', 'mit',
+ 'http://www.python.org', 'freie', 'elegante', 'Der', 'geeignet.', 'sind', 'Development)',
+ 'auch', 'effizienten', 'von', 'Ap-plication', 'Verweise', 'alle', 'Sprache', 'Standardbibliothek',
+ 'Werkzeuge,', 'Distributio-nen', 'finden', 'schnelle', 'und', 'als', 'weiterverbreitet', 'hervorragend',
+ 'Typisierung', '(Rapid', 'Drittanbietern,', 'Geheim!', 'auf', 'Ansatz', 'und', 'frei', 'Programme',
+ 'verfüg-bar,', 'werden.', 'Python', 'Module,', 'Python', 'einfachen,', 'als', 'dynamische', 'frei',
+ 'die', 'Dokumentation.', 'lernende,', 'Webseite', 'Python-Interpreter', 'zu', 'interpretierte', 'können',
+ 'zur', 'der', 'sich', 'Plattformen', 'weitere', 'effektiven', 'Durch', 'Datenstruk-turen']
