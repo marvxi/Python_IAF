@@ -1,7 +1,7 @@
 
 MyText = open('MyText.txt','r')
 MyText = MyText.read()
-)
+
 
 Search = input("Gebe das Suchwort ein: ")
 Locat = MyText.find(Search)
