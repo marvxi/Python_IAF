@@ -22,10 +22,11 @@ print(encrp)
 def decryption(text):
     decrpted_message = ''
     for character in text:
-        num = ord(character)
-        new_num = num - 3
-        if new_num > ord('Z'):
-            new_num = new_num + 26
+        new_num = ord(character)
+        if new_num >= ord('A') and new_num <= ord('C'): # Weil 3 über Z und minus 26 genau ABC ist
+            new_num += 23
+        else:
+            new_num -= 3
         new_character = chr(new_num)
         decrpted_message = decrpted_message + new_character
 
