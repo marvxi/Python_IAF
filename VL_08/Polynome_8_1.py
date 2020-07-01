@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 #f(x) = x^4 + 2x^3 - 9x^2 + 5
 
 polynom1 = np.array([1,2,-9,-2,5])
-x = np.linspace(-5,3.200)
+x = np.linspace(-5,3,200)
 y = np.polyval(polynom1,x)
 plt.figure('Polynom')
 plt.plot(x,y,label="$f(x) = x^4 + 2\cdot x^3 - 9\cdot x^2 + 5$")
